@@ -4,4 +4,4 @@ fiz algumas mudanças
 
 https://f1exblog.netlify.app/
 
-*como ja tinha site com esse por isso eu coloquei esse 1
+*como ja existia site com esse nome por isso eu coloquei esse 1
